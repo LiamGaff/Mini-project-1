@@ -118,7 +118,7 @@ header {
 }
 
 .logo {
-    background: url("../imgs/rosie.jpg");
+    background: url("../images/rosie.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -166,6 +166,7 @@ header {
     height: 120px;
 }
 
+
 .menuitem a i {
     padding-top: 22px;
     display: block;
@@ -174,7 +175,7 @@ header {
 }
 
 .menuitem span {
-    display: inline-block;
+    display: block;
     width: 100%;
     padding-top: 5px;
     text-align: center;
